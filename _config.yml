@@ -1,24 +1,13 @@
-name: WhollyOdd
-favicon: null
-layout_spectrum: 0.841568754054606
-typography_spectrum: 0.577679191250354
-title: The web home for Howard Carson
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors: []
-  brandStrength: 0.3086731010116637
-  lightness: 0.47203388158231974
-  saturation: 0.9034433395136148
-  rhythmicContrast: 0.1478083140682429
+  brandStrength: 0.971284
+  lightness: 0.521959
+  rhythmicContrast: 1
+  saturation: 0.984797
+cta: {}
+layout_spectrum: 0.983108
+name: WhollyOdd
+opengraph: {}
 purpose: []
+typography_spectrum: 0.632601
