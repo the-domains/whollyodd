@@ -1,13 +1,24 @@
-analytics: {}
+name: WhollyOdd
+favicon: null
+layout_spectrum: 0.983108
+typography_spectrum: 0.632601
+title: My Internet Brain Dump
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors: []
   brandStrength: 0.971284
   lightness: 0.521959
-  rhythmicContrast: 1
   saturation: 0.984797
-cta: {}
-layout_spectrum: 0.983108
-name: WhollyOdd
-opengraph: {}
+  rhythmicContrast: 1
 purpose: []
-typography_spectrum: 0.632601
